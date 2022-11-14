@@ -2,7 +2,7 @@ body
 {
     text-align: center;
 }
-#welcome {
+#Welcome {
     color: #FFFFFF;
     bottom: 0;
     background:linear-gradient(lightblue,lightgreen,purple,blue,green);
@@ -11,7 +11,7 @@ body
     height: 100%;
     z-index: 9;
 }
-#bio {
+#Bio {
     font-family: 'Cinzel Decorative', cursive;
     padding: 50px;
     text-align: center;
@@ -28,33 +28,25 @@ h1 {
     width: 70px;
     margin: 8px auto;
 }
-#contact iframe
+#Contact iframe
 {
     width: 100%;
 }
-.contact_1 h3
-{
-    display: inline;
-}
-.contact_1 a
-{
-    text-shadow: none;
-}
 
 
-#videos iframe
+#Videos iframe
 {
     width: 80%;
 }
 
-.my_nav_bar
+.my_nav_Bar
 {
     position:sticky;
     top:0;
     z-index:99999
 }
 
-input
-{
-    background: grey;
+#Name{
+    font-size: 25px;
+    font-family: 'Silkscreen', cursive;
 }
